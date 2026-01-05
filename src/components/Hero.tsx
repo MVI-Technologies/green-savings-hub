@@ -4,7 +4,7 @@ import { ArrowRight, Sparkles, Shield, Zap } from "lucide-react";
 import heroImage from "@/assets/hero-solar.jpg";
 
 const Hero = () => {
-  const whatsappNumber = "5511999999999";
+  const whatsappNumber = "5551992878953";
   const whatsappMessage = encodeURIComponent("Olá! Gostaria de saber mais sobre a economia de energia com a iGreen.");
 
   return (

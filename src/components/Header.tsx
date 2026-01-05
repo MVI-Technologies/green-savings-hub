@@ -21,7 +21,7 @@ const Header = () => {
     { href: "#contato", label: "Contato" },
   ];
 
-  const whatsappNumber = "5511999999999";
+  const whatsappNumber = "5551992878953";
   const whatsappMessage = encodeURIComponent("Olá! Gostaria de saber mais sobre a economia de energia com a iGreen.");
 
   return (
