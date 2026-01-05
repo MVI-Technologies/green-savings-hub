@@ -2,7 +2,7 @@ import { Leaf, Mail, Phone, MapPin, Instagram, Facebook, Linkedin } from "lucide
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
-  const whatsappNumber = "5511999999999";
+  const whatsappNumber = "5551992878953";
 
   return (
     <footer id="contato" className="bg-secondary text-secondary-foreground">
@@ -95,7 +95,7 @@ const Footer = () => {
                   className="flex items-center gap-3 text-secondary-foreground/70 hover:text-primary transition-colors"
                 >
                   <Phone className="w-5 h-5 shrink-0" />
-                  <span>(11) 99999-9999</span>
+                  <span>(51) 99287-8953</span>
                 </a>
               </li>
               <li>

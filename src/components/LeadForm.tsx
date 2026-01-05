@@ -39,7 +39,7 @@ const LeadForm = () => {
     aceitePrivacidade: false,
   });
 
-  const whatsappNumber = "5511999999999";
+  const whatsappNumber = "5551992878953";
   const whatsappMessage = encodeURIComponent("Olá! Acabei de preencher o formulário e gostaria de falar sobre minha economia de energia.");
 
   const handleSubmit = async (e: React.FormEvent) => {
